@@ -16,7 +16,7 @@ public class ExtraPepperBurger extends BurgerDecorator {
 
     @Override
     public String getDescription() {
-        return burger.getDescription() + "with extra pepper ";
+        return burger.getDescription() + " with extra pepper ";
     }
 
     @Override
