@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="BlackCaiman: Maven-org-aspectj_aspectjtools-1.9.x.3336.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Maven-org-aspectj_aspectjtools/Maven-org-aspectj_aspectjtools-1.9.x.3336.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/aspectjtools-1.9.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/Maven-org-aspectj_aspectjtools/Maven-org-aspectj_aspectjtools-1.9.x.3336.0/AL2_x86_64/generic-flavor/src/third-party-artifacts/org/aspectj/aspectjtools/1.9.6/aspectjtools-1.9.6-sources" />
+    </SOURCES>
+  </library>
+</component>

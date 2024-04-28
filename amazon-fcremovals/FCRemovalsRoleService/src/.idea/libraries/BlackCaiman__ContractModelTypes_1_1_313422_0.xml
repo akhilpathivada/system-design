@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="BlackCaiman: ContractModelTypes-1.1.313422.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/ContractModelTypes/ContractModelTypes-1.1.313422.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/libMultipleAttributesInputTypes.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/ContractModelTypes/ContractModelTypes-1.1.313422.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/libContractModelTypes.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/ContractModelTypes/ContractModelTypes-1.1.313422.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/libSetPluginTypes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/ContractModelTypes/ContractModelTypes-1.1.313422.0/AL2_x86_64/DEV.STD.PTHREAD/build/generated-src" />
+    </SOURCES>
+  </library>
+</component>

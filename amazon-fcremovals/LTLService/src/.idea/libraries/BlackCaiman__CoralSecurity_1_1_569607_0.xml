@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="BlackCaiman: CoralSecurity-1.1.569607.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/CoralSecurity/CoralSecurity-1.1.569607.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/CoralSecurity-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/CoralSecurity/CoralSecurity-1.1.569607.0/AL2_x86_64/generic-flavor/src/test" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/CoralSecurity/CoralSecurity-1.1.569607.0/AL2_x86_64/generic-flavor/src/main" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/CoralSecurity/CoralSecurity-1.1.569607.0/AL2_x86_64/generic-flavor/src/app" />
+    </SOURCES>
+  </library>
+</component>

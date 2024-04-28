@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="BlackCaiman: Maven-software-amazon-smithy_smithy-smoke-test-traits-1.x.5783.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Maven-software-amazon-smithy_smithy-smoke-test-traits/Maven-software-amazon-smithy_smithy-smoke-test-traits-1.x.5783.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/smithy-smoke-test-traits-1.45.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/Maven-software-amazon-smithy_smithy-smoke-test-traits/Maven-software-amazon-smithy_smithy-smoke-test-traits-1.x.5783.0/AL2_x86_64/generic-flavor/src/third-party-artifacts/software/amazon/smithy/smithy-smoke-test-traits/1.45.0/smithy-smoke-test-traits-1.45.0-sources" />
+    </SOURCES>
+  </library>
+</component>

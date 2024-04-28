@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="BlackCaiman: CoralOrderingSupport-1.1.548750.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/CoralOrderingSupport/CoralOrderingSupport-1.1.548750.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/CoralOrderingSupport-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/CoralOrderingSupport/CoralOrderingSupport-1.1.548750.0/AL2_x86_64/generic-flavor/src/test" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/CoralOrderingSupport/CoralOrderingSupport-1.1.548750.0/AL2_x86_64/generic-flavor/src/main" />
+    </SOURCES>
+  </library>
+</component>

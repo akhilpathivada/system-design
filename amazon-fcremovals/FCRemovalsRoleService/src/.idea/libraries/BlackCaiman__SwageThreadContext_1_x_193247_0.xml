@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="BlackCaiman: SwageThreadContext-1.x.193247.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/SwageThreadContext/SwageThreadContext-1.x.193247.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/SwageThreadContext-1.x.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/SwageThreadContext/SwageThreadContext-1.x.193247.0/AL2_x86_64/generic-flavor/src/src/test/java" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/SwageThreadContext/SwageThreadContext-1.x.193247.0/AL2_x86_64/generic-flavor/src/src/main/java" />
+    </SOURCES>
+  </library>
+</component>

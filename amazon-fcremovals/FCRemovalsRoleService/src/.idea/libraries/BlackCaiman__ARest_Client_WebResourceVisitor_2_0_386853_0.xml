@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="BlackCaiman: ARest-Client-WebResourceVisitor-2.0.386853.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/ARest-Client-WebResourceVisitor/ARest-Client-WebResourceVisitor-2.0.386853.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/ARest-Client-WebResourceVisitor-2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/ARest-Client-WebResourceVisitor/ARest-Client-WebResourceVisitor-2.0.386853.0/AL2_x86_64/generic-flavor/src/tst" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/ARest-Client-WebResourceVisitor/ARest-Client-WebResourceVisitor-2.0.386853.0/AL2_x86_64/generic-flavor/src/src" />
+    </SOURCES>
+  </library>
+</component>

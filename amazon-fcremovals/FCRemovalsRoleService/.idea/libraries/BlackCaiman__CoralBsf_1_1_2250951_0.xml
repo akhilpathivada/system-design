@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="BlackCaiman: CoralBsf-1.1.2250951.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/CoralBsf/CoralBsf-1.1.2250951.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/CoralBsf-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/CoralBsf/CoralBsf-1.1.2250951.0/AL2_x86_64/DEV.STD.PTHREAD/build/generated-src" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/CoralBsf/CoralBsf-1.1.2250951.0/AL2_x86_64/generic-flavor/src/test" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/CoralBsf/CoralBsf-1.1.2250951.0/AL2_x86_64/generic-flavor/src/main" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/CoralBsf/CoralBsf-1.1.2250951.0/AL2_x86_64/generic-flavor/src/generated-src" />
+    </SOURCES>
+  </library>
+</component>

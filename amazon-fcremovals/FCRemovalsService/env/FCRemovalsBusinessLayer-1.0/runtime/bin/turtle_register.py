@@ -1,0 +1,1 @@
+/Users/iakhilp/brazil-pkg-cache/packages/TurtleRegistrationScript/TurtleRegistrationScript-1.0.3122642.0/AL2_x86_64/DEV.STD.PTHREAD/build/bin/turtle_register.py

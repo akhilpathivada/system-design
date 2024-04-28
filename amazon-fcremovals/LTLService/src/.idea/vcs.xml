@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/LTLService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LTLServiceBusinessLayer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LTLServiceCDK" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LTLServiceClientConfig" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LTLServiceCommons" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LTLServiceDaoLayer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LTLServiceImageBuild" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LTLServiceJavaClient" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LTLServiceMessageProcessingLambda" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LTLServiceModel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LTLServiceSaoLayer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LTLServiceTests" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/out" vcs="Git" />
+  </component>
+</project>

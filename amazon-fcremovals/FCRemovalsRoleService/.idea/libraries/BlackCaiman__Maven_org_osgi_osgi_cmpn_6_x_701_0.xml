@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="BlackCaiman: Maven-org-osgi_osgi_cmpn-6.x.701.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Maven-org-osgi_osgi_cmpn/Maven-org-osgi_osgi_cmpn-6.x.701.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/osgi.cmpn-6.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Maven-org-osgi_osgi_cmpn/Maven-org-osgi_osgi_cmpn-6.x.701.0/AL2_x86_64/generic-flavor/src/third-party-artifacts/org/osgi/osgi.cmpn/6.0.0/osgi.cmpn-6.0.0.jar!/" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/Maven-org-osgi_osgi_cmpn/Maven-org-osgi_osgi_cmpn-6.x.701.0/AL2_x86_64/generic-flavor/src/third-party-artifacts/org/osgi/osgi.cmpn/6.0.0/osgi.cmpn-6.0.0-sources" />
+    </SOURCES>
+  </library>
+</component>

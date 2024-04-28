@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="BlackCaiman: IonSQLSandbox-5.x.1564.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/IonSQLSandbox/IonSQLSandbox-5.x.1564.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/partiql-lang-kotlin-0.2.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/IonSQLSandbox/IonSQLSandbox-5.x.1564.0/AL2_x86_64/generic-flavor/src" />
+    </SOURCES>
+  </library>
+</component>

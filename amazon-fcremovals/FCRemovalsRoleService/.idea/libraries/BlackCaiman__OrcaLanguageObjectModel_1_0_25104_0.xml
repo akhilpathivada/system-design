@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="BlackCaiman: OrcaLanguageObjectModel-1.0.25104.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/OrcaLanguageObjectModel/OrcaLanguageObjectModel-1.0.25104.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/OrcaLanguageObjectModel-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/OrcaLanguageObjectModel/OrcaLanguageObjectModel-1.0.25104.0/AL2_x86_64/generic-flavor/src/tst" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/OrcaLanguageObjectModel/OrcaLanguageObjectModel-1.0.25104.0/AL2_x86_64/generic-flavor/src/src" />
+    </SOURCES>
+  </library>
+</component>

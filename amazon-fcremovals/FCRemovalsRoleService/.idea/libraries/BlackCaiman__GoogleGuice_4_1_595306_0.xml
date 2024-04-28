@@ -1,0 +1,36 @@
+<component name="libraryTable">
+  <library name="BlackCaiman: GoogleGuice-4.1.595306.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.595306.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/guice-6.0.0-4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.595306.0/AL2_x86_64/generic-flavor/src/guice-6.0.0/examples/guice-demo/src/test/java" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.595306.0/AL2_x86_64/generic-flavor/src/guice-6.0.0/extensions/spring/src" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.595306.0/AL2_x86_64/generic-flavor/src/guice-6.0.0/extensions/assistedinject/src" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.595306.0/AL2_x86_64/generic-flavor/src/guice-6.0.0/extensions/servlet/src" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.595306.0/AL2_x86_64/generic-flavor/src/guice-6.0.0/extensions/jmx/src" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.595306.0/AL2_x86_64/generic-flavor/src/guice-6.0.0/extensions/struts2/src" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.595306.0/AL2_x86_64/generic-flavor/src/guice-6.0.0/extensions/struts2/test" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.595306.0/AL2_x86_64/generic-flavor/src/guice-6.0.0/extensions/assistedinject/test" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.595306.0/AL2_x86_64/generic-flavor/src/guice-6.0.0/extensions/persist/src" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.595306.0/AL2_x86_64/generic-flavor/src/guice-6.0.0/core/src" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.595306.0/AL2_x86_64/generic-flavor/src/guice-6.0.0/core/test" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.595306.0/AL2_x86_64/generic-flavor/src/guice-6.0.0/extensions/spring/test" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.595306.0/AL2_x86_64/generic-flavor/src/guice-6.0.0/extensions/grapher/src" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.595306.0/AL2_x86_64/generic-flavor/src/guice-6.0.0/extensions/dagger-adapter/src" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.595306.0/AL2_x86_64/generic-flavor/src/guice-6.0.0/extensions/struts2/example/src" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.595306.0/AL2_x86_64/generic-flavor/src/guice-6.0.0/extensions/testlib/src" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.595306.0/AL2_x86_64/generic-flavor/src/guice-6.0.0/extensions/throwingproviders/src" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.595306.0/AL2_x86_64/generic-flavor/src/guice-6.0.0/extensions/dagger-adapter/test" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.595306.0/AL2_x86_64/generic-flavor/src/guice-6.0.0/extensions/testlib/test" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.595306.0/AL2_x86_64/generic-flavor/src/guice-6.0.0/extensions/jndi/src" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.595306.0/AL2_x86_64/generic-flavor/src/guice-6.0.0/extensions/throwingproviders/test" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.595306.0/AL2_x86_64/generic-flavor/src/guice-6.0.0/extensions/grapher/test" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.595306.0/AL2_x86_64/generic-flavor/src/guice-6.0.0/examples/guice-demo/src/main/java" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.595306.0/AL2_x86_64/generic-flavor/src/guice-6.0.0/extensions/jmx/test" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.595306.0/AL2_x86_64/generic-flavor/src/guice-6.0.0/extensions/servlet/test" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.595306.0/AL2_x86_64/generic-flavor/src/guice-6.0.0/extensions/persist/test" />
+    </SOURCES>
+  </library>
+</component>

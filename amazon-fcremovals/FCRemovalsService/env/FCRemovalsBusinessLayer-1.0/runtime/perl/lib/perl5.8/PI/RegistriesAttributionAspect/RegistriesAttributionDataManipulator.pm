@@ -1,0 +1,1 @@
+/Users/iakhilp/brazil-pkg-cache/packages/RegistriesAttributionAspect/RegistriesAttributionAspect-1.0.399594.0/AL2_x86_64/DEV.STD.PTHREAD/build/perl/lib/perl5.8/PI/RegistriesAttributionAspect/RegistriesAttributionDataManipulator.pm

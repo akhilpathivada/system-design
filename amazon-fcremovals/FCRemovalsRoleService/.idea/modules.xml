@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/FCRemovalsCommons/FCRemovalsCommons.iml" filepath="$PROJECT_DIR$/src/FCRemovalsCommons/FCRemovalsCommons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/FCRemovalsDataAccessLayer/FCRemovalsDataAccessLayer.iml" filepath="$PROJECT_DIR$/src/FCRemovalsDataAccessLayer/FCRemovalsDataAccessLayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/FCRemovalsHerdLib/FCRemovalsHerdLib.iml" filepath="$PROJECT_DIR$/src/FCRemovalsHerdLib/FCRemovalsHerdLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/FCRemovalsOrcaDefinitions/FCRemovalsOrcaDefinitions.iml" filepath="$PROJECT_DIR$/src/FCRemovalsOrcaDefinitions/FCRemovalsOrcaDefinitions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FCRemovalsRoleService.iml" filepath="$PROJECT_DIR$/.idea/FCRemovalsRoleService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/FCRemovalsRoleServiceClientConfig/FCRemovalsRoleServiceClientConfig.iml" filepath="$PROJECT_DIR$/src/FCRemovalsRoleServiceClientConfig/FCRemovalsRoleServiceClientConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/FCRemovalsRoleServiceJavaClient/FCRemovalsRoleServiceJavaClient.iml" filepath="$PROJECT_DIR$/src/FCRemovalsRoleServiceJavaClient/FCRemovalsRoleServiceJavaClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/FCRemovalsRoleServiceLogImageBuild/FCRemovalsRoleServiceLogImageBuild.iml" filepath="$PROJECT_DIR$/src/FCRemovalsRoleServiceLogImageBuild/FCRemovalsRoleServiceLogImageBuild.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/FCRemovalsRoleServiceModel/FCRemovalsRoleServiceModel.iml" filepath="$PROJECT_DIR$/src/FCRemovalsRoleServiceModel/FCRemovalsRoleServiceModel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/FCRemovalsRoleServiceTests/FCRemovalsRoleServiceTests.iml" filepath="$PROJECT_DIR$/src/FCRemovalsRoleServiceTests/FCRemovalsRoleServiceTests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/FCRemovalsRolesLambdas/FCRemovalsRolesLambdas.iml" filepath="$PROJECT_DIR$/src/FCRemovalsRolesLambdas/FCRemovalsRolesLambdas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/RemovalsCommonUtils/RemovalsCommonUtils.iml" filepath="$PROJECT_DIR$/src/RemovalsCommonUtils/RemovalsCommonUtils.iml" />
+    </modules>
+  </component>
+</project>

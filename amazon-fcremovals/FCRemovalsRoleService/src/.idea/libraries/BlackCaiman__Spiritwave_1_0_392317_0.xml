@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="BlackCaiman: Spiritwave-1.0.392317.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Spiritwave/Spiritwave-1.0.392317.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/spiritwave-licence.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Spiritwave/Spiritwave-1.0.392317.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/wave.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Spiritwave/Spiritwave-1.0.392317.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/waverv6dvr.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Spiritwave/Spiritwave-1.0.392317.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/lwmsClient.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

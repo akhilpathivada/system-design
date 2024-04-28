@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="BlackCaiman: Maven-org-dom4j_dom4j-2.x.10971.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Maven-org-dom4j_dom4j/Maven-org-dom4j_dom4j-2.x.10971.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/dom4j-2.1.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/Maven-org-dom4j_dom4j/Maven-org-dom4j_dom4j-2.x.10971.0/AL2_x86_64/generic-flavor/src/third-party-artifacts/org/dom4j/dom4j/2.1.3/dom4j-2.1.3-sources" />
+    </SOURCES>
+  </library>
+</component>

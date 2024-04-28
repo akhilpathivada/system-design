@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="BlackCaiman: Maven-software-amazon-smithy_smithy-aws-traits-1.x.73227.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Maven-software-amazon-smithy_smithy-aws-traits/Maven-software-amazon-smithy_smithy-aws-traits-1.x.73227.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/smithy-aws-traits-1.41.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/Maven-software-amazon-smithy_smithy-aws-traits/Maven-software-amazon-smithy_smithy-aws-traits-1.x.73227.0/AL2_x86_64/generic-flavor/src/third-party-artifacts/software/amazon/smithy/smithy-aws-traits/1.41.1/smithy-aws-traits-1.41.1-sources" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="BlackCaiman: Hamcrest-1.1.308263.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Hamcrest/Hamcrest-1.1.308263.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/hamcrest-all-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/Hamcrest/Hamcrest-1.1.308263.0/AL2_x86_64/generic-flavor/src/hamcrest/hamcrest-1.1/hamcrest-core/src/main/java" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Hamcrest/Hamcrest-1.1.308263.0/AL2_x86_64/generic-flavor/src/hamcrest/hamcrest-1.1/hamcrest-library-1.1.jar!/" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/Hamcrest/Hamcrest-1.1.308263.0/AL2_x86_64/generic-flavor/src/hamcrest/hamcrest-1.1/hamcrest-examples/src/main/java" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/Hamcrest/Hamcrest-1.1.308263.0/AL2_x86_64/generic-flavor/src/hamcrest/hamcrest-1.1/hamcrest-library/src/main/java" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Hamcrest/Hamcrest-1.1.308263.0/AL2_x86_64/generic-flavor/src/hamcrest/hamcrest-1.1/hamcrest-core-1.1.jar!/" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/Hamcrest/Hamcrest-1.1.308263.0/AL2_x86_64/generic-flavor/src/hamcrest/hamcrest-1.1/hamcrest-integration/src/main/java" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Hamcrest/Hamcrest-1.1.308263.0/AL2_x86_64/generic-flavor/src/hamcrest/hamcrest-1.1/hamcrest-generator-1.1.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Hamcrest/Hamcrest-1.1.308263.0/AL2_x86_64/generic-flavor/src/hamcrest/hamcrest-1.1/hamcrest-integration-1.1.jar!/" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/Hamcrest/Hamcrest-1.1.308263.0/AL2_x86_64/generic-flavor/src/hamcrest/hamcrest-1.1/hamcrest-unit-test/src/main/java" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/Hamcrest/Hamcrest-1.1.308263.0/AL2_x86_64/generic-flavor/src/hamcrest/hamcrest-1.1/hamcrest-text/src/main/java" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/Hamcrest/Hamcrest-1.1.308263.0/AL2_x86_64/generic-flavor/src/hamcrest/hamcrest-1.1/hamcrest-generator/src/main/java" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Hamcrest/Hamcrest-1.1.308263.0/AL2_x86_64/generic-flavor/src/hamcrest/hamcrest-1.1/hamcrest-all-1.1.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Hamcrest/Hamcrest-1.1.308263.0/AL2_x86_64/generic-flavor/src/hamcrest/lib/hamcrest-all-1.1.jar!/" />
+    </SOURCES>
+  </library>
+</component>

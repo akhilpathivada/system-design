@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="BlackCaiman: Lombok-1.18.x.30952.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Lombok/Lombok-1.18.x.30952.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/lombok-1.18.30.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/Lombok/Lombok-1.18.x.30952.0/AL2_x86_64/generic-flavor/src/third-party-artifacts/org/projectlombok/lombok/1.18.30/lombok-1.18.30-sources" />
+    </SOURCES>
+  </library>
+</component>

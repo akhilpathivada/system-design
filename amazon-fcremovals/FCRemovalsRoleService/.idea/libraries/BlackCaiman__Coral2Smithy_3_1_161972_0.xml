@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="BlackCaiman: Coral2Smithy-3.1.161972.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Coral2Smithy/Coral2Smithy-3.1.161972.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/Coral2Smithy-3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/Coral2Smithy/Coral2Smithy-3.1.161972.0/AL2_x86_64/generic-flavor/src/src" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/Coral2Smithy/Coral2Smithy-3.1.161972.0/AL2_x86_64/generic-flavor/src/tst" />
+    </SOURCES>
+  </library>
+</component>

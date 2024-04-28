@@ -1,0 +1,39 @@
+<component name="libraryTable">
+  <library name="BlackCaiman: Netty4-4.1.252389.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Netty4/Netty4-4.1.252389.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/netty-all-4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/Netty4/Netty4-4.1.252389.0/AL2_x86_64/DEV.STD.PTHREAD/build/generated-src" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Netty4/Netty4-4.1.252389.0/AL2_x86_64/generic-flavor/src/jar/netty-common-4.1.68.Final-sources.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Netty4/Netty4-4.1.252389.0/AL2_x86_64/generic-flavor/src/jar/netty-codec-http-4.1.68.Final-sources.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Netty4/Netty4-4.1.252389.0/AL2_x86_64/generic-flavor/src/jar/netty-codec-http2-4.1.68-sources.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Netty4/Netty4-4.1.252389.0/AL2_x86_64/generic-flavor/src/jar/netty-transport-sctp-4.1.68.Final-sources.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Netty4/Netty4-4.1.252389.0/AL2_x86_64/generic-flavor/src/jar/netty-resolver-4.1.68.Final-sources.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Netty4/Netty4-4.1.252389.0/AL2_x86_64/generic-flavor/src/jar/netty-transport-udt-4.1.68.Final-sources.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Netty4/Netty4-4.1.252389.0/AL2_x86_64/generic-flavor/src/jar/netty-transport-native-kqueue-4.1.68-sources.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Netty4/Netty4-4.1.252389.0/AL2_x86_64/generic-flavor/src/jar/netty-codec-haproxy-4.1.68-sources.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Netty4/Netty4-4.1.252389.0/AL2_x86_64/generic-flavor/src/jar/netty-codec-redis-4.1.68.Final-sources.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Netty4/Netty4-4.1.252389.0/AL2_x86_64/generic-flavor/src/jar/netty-example-4.1.68.Final-sources.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Netty4/Netty4-4.1.252389.0/AL2_x86_64/generic-flavor/src/jar/netty-handler-4.1.68.Final-sources.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Netty4/Netty4-4.1.252389.0/AL2_x86_64/generic-flavor/src/jar/netty-transport-4.1.68.Final-sources.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Netty4/Netty4-4.1.252389.0/AL2_x86_64/generic-flavor/src/jar/netty-transport-rxtx-4.1.68.Final-sources.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Netty4/Netty4-4.1.252389.0/AL2_x86_64/generic-flavor/src/jar/netty-codec-dns-4.1.68.Final.jar-sources.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Netty4/Netty4-4.1.252389.0/AL2_x86_64/generic-flavor/src/jar/netty-codec-socks-4.1.68.Final-sources.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Netty4/Netty4-4.1.252389.0/AL2_x86_64/generic-flavor/src/jar/netty-codec-stomp-4.1.68.Final-sources.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Netty4/Netty4-4.1.252389.0/AL2_x86_64/generic-flavor/src/jar/netty-transport-native-epoll-4.1.68.Final-sources.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Netty4/Netty4-4.1.252389.0/AL2_x86_64/generic-flavor/src/jar/netty-codec-mqtt-4.1.68.Final-sources.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Netty4/Netty4-4.1.252389.0/AL2_x86_64/generic-flavor/src/jar/netty-tcnative-2.0.42.Final-sources.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Netty4/Netty4-4.1.252389.0/AL2_x86_64/generic-flavor/src/jar/netty-build-common-29-sources.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Netty4/Netty4-4.1.252389.0/AL2_x86_64/generic-flavor/src/jar/all-in-one/netty-all-4.1.68.Final-sources.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Netty4/Netty4-4.1.252389.0/AL2_x86_64/generic-flavor/src/jar/netty-buffer-4.1.68.Final-sources.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Netty4/Netty4-4.1.252389.0/AL2_x86_64/generic-flavor/src/jar/netty-codec-memcache-4.1.68.Final-sources.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Netty4/Netty4-4.1.252389.0/AL2_x86_64/generic-flavor/src/jar/netty-handler-proxy-4.1.68-sources.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Netty4/Netty4-4.1.252389.0/AL2_x86_64/generic-flavor/src/jar/netty-codec-4.1.68-sources.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Netty4/Netty4-4.1.252389.0/AL2_x86_64/generic-flavor/src/jar/netty-transport-native-unix-common-4.1.68-sources.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Netty4/Netty4-4.1.252389.0/AL2_x86_64/generic-flavor/src/jar/netty-resolver-dns-4.1.68.Final-sources.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Netty4/Netty4-4.1.252389.0/AL2_x86_64/generic-flavor/src/jar/netty-resolver-dns-native-macos-4.1.68.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

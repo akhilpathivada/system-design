@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="BlackCaiman: junit-4.12.437012.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/junit/junit-4.12.437012.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/junit.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/junit/junit-4.12.437012.0/AL2_x86_64/generic-flavor/src/src" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/junit/junit-4.12.437012.0/AL2_x86_64/generic-flavor/src/junit-4.12-src.jar!/" />
+    </SOURCES>
+  </library>
+</component>

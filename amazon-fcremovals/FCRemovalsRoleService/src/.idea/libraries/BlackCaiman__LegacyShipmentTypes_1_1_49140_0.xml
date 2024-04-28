@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="BlackCaiman: LegacyShipmentTypes-1.1.49140.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/LegacyShipmentTypes/LegacyShipmentTypes-1.1.49140.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/libLegacyShipmentTypes.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/LegacyShipmentTypes/LegacyShipmentTypes-1.1.49140.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/LegacyShipmentConstantsJava.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/LegacyShipmentTypes/LegacyShipmentTypes-1.1.49140.0/AL2_x86_64/DEV.STD.PTHREAD/build/generated-src" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/LegacyShipmentTypes/LegacyShipmentTypes-1.1.49140.0/AL2_x86_64/generic-flavor/src/LegacyShipmentConstantsJava" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="BlackCaiman: HK2-api-2.x.385630.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/HK2-api/HK2-api-2.x.385630.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/hk2-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/HK2-api/HK2-api-2.x.385630.0/AL2_x86_64/generic-flavor/src/src" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="BlackCaiman: Maven-org-postgresql_postgresql-42.x.202559.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Maven-org-postgresql_postgresql/Maven-org-postgresql_postgresql-42.x.202559.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/postgresql-42.3.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/Maven-org-postgresql_postgresql/Maven-org-postgresql_postgresql-42.x.202559.0/AL2_x86_64/generic-flavor/src/third-party-artifacts/org/postgresql/postgresql/42.3.6/postgresql-42.3.6-sources" />
+    </SOURCES>
+  </library>
+</component>

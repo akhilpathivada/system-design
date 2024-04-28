@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+    <Properties>
+        <Property name="log-path">/tmp/log</Property>
+    </Properties>
+    <Appenders>
+        <AmazonRollingRandomAccessFile name="APPLICATION"
+                                       filePattern="${log-path}/FCRemovalsBusinessTest.log.%d{yyyy-MM-dd-HH}" >
+            <PatternLayout>
+                <pattern>%d{DATE} [%p] %X{RequestId} (%t) %c{3}: %m%n</pattern>
+            </PatternLayout>
+        </AmazonRollingRandomAccessFile>
+        <AmazonRollingRandomAccessFile name="WIRE"
+                                       filePattern="${log-path}/wire.log.%d{yyyy-MM-dd-HH}" >
+            <PatternLayout>
+                <pattern>%d{DATE} [%p] %X{RequestId} (%t) %c: %m%n</pattern>
+            </PatternLayout>
+        </AmazonRollingRandomAccessFile>
+        <AmazonRollingRandomAccessFile name="SQL"
+                                       filePattern="${log-path}/sql.log.%d{yyyy-MM-dd-HH}" >
+            <PatternLayout>
+                <pattern>%d{DATE} [%p] %X{RequestId} (%t) %c: %m%n</pattern>
+            </PatternLayout>
+        </AmazonRollingRandomAccessFile>
+        <AmazonRollingRandomAccessFile name="VISIBILITY"
+                                       filePattern="${log-path}/visibility.log.%d{yyyy-MM-dd-HH}" >
+            <PatternLayout>
+                <pattern>%d{DATE} [%p] %X{RequestId} (%t) %c{3} %C{3}: %m%n</pattern>
+            </PatternLayout>
+        </AmazonRollingRandomAccessFile>
+    </Appenders>
+
+    <Loggers>
+        <Root level="DEBUG">
+            <AppenderRef ref="APPLICATION" level="DEBUG" />
+        </Root>
+        <Logger name="CoralHttpClient.wire" level="TRACE" additivity="false">
+            <appender-ref ref="WIRE" level="TRACE"/>
+        </Logger>
+        <Logger name="httpclient.wire" level="WARN" additivity="false">
+            <appender-ref ref="WIRE" level="WARN"/>
+        </Logger>
+        <Logger name="WIRE" level="TRACE" additivity="false">
+            <appender-ref ref="WIRE" level="TRACE"/>
+        </Logger>
+        <Logger name="com.ibatis" level="DEBUG" additivity="false">
+            <appender-ref ref="SQL" level="DEBUG" />
+        </Logger>
+        <Logger name="java.sql" level="DEBUG" additivity="false">
+            <appender-ref ref="SQL" level="DEBUG" />
+        </Logger>
+        <Logger name="Context" level="INFO">
+            <appender-ref ref="VISIBILITY" level="INFO" />
+        </Logger>
+        <Logger name="CLASSPATH" level="OFF" />
+        <Logger name="com.amazon.coral" level="DEBUG"/>
+        <Logger name="com.amazon.coral.reflect" level="ERROR"/>
+        <Logger name="org.apache" level="WARN"/>
+        <Logger name="com.mchange" level="WARN" />
+        <Logger name="org.mortbay" level="WARN" />
+        <Logger name="com.amazon.aaa" level="WARN" />
+        <Logger name="com.amazon.coral.throttle.core" level ="INFO" />
+    </Loggers>
+</Configuration>

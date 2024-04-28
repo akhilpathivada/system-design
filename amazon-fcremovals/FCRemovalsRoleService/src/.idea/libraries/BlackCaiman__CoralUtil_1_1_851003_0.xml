@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="BlackCaiman: CoralUtil-1.1.851003.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/CoralUtil/CoralUtil-1.1.851003.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/CoralUtil-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/CoralUtil/CoralUtil-1.1.851003.0/AL2_x86_64/generic-flavor/src/benchmarks" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/CoralUtil/CoralUtil-1.1.851003.0/AL2_x86_64/generic-flavor/src/test" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/CoralUtil/CoralUtil-1.1.851003.0/AL2_x86_64/generic-flavor/src/main" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/CoralUtil/CoralUtil-1.1.851003.0/AL2_x86_64/generic-flavor/src/test-processor" />
+    </SOURCES>
+  </library>
+</component>

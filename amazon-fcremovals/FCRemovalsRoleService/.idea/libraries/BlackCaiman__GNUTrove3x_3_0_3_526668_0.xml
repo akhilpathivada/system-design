@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="BlackCaiman: GNUTrove3x-3.0.3.526668.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/GNUTrove3x/GNUTrove3x-3.0.3.526668.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/trove-3.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/GNUTrove3x/GNUTrove3x-3.0.3.526668.0/AL2_x86_64/generic-flavor/src/trove/generator_test" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/GNUTrove3x/GNUTrove3x-3.0.3.526668.0/AL2_x86_64/generic-flavor/src/trove/trove-3.0.3-src.jar!/" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/GNUTrove3x/GNUTrove3x-3.0.3.526668.0/AL2_x86_64/generic-flavor/src/trove/test" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/GNUTrove3x/GNUTrove3x-3.0.3.526668.0/AL2_x86_64/generic-flavor/src/trove/generator_src" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/GNUTrove3x/GNUTrove3x-3.0.3.526668.0/AL2_x86_64/generic-flavor/src/trove/src" />
+    </SOURCES>
+  </library>
+</component>

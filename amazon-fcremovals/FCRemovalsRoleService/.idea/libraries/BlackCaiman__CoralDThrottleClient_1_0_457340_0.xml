@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="BlackCaiman: CoralDThrottleClient-1.0.457340.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/CoralDThrottleClient/CoralDThrottleClient-1.0.457340.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/CoralDThrottleClient-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/CoralDThrottleClient/CoralDThrottleClient-1.0.457340.0/AL2_x86_64/generic-flavor/src/test" />
+      <root url="file://$USER_HOME$/brazil-pkg-cache/packages/CoralDThrottleClient/CoralDThrottleClient-1.0.457340.0/AL2_x86_64/generic-flavor/src/main" />
+    </SOURCES>
+  </library>
+</component>
