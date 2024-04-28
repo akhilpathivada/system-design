@@ -1,1 +1,0 @@
-/Users/iakhilp/brazil-pkg-cache/packages/ScheduledDeliveryAspectTypes/ScheduledDeliveryAspectTypes-1.0.318237.0/AL2_x86_64/DEV.STD.PTHREAD/build/perl/lib/perl5.8/PI/scheduleddelivery/aspect/types/StringMapManipulator.pm
