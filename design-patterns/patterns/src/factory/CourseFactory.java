@@ -6,10 +6,13 @@ import factory.course.LLD;
 public class CourseFactory {
 
     public static Course getCourse(String courseType) {
-        return switch (courseType) {
-            case "LLD" -> new LLD();
-            case "HLD" -> new HLD();
-            default -> null;
-        };
+        switch (courseType) {
+            case "LLD":
+                return new LLD();
+            case "HLD":
+                return new HLD();
+            default:
+                return null;
+        }
     }
 }
