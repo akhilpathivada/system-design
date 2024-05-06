@@ -1,0 +1,6 @@
+package model;
+
+public enum OrderStatus {
+
+    ORDER_RECEIVED, ORDER_CONFIRMED, CANCELLED, SHIPPING, OUT_FOR_DELIVERY, DELIVERED;
+}
