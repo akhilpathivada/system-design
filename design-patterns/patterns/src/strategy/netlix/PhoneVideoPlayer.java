@@ -2,12 +2,11 @@
  * author: akhilpathivada
  * time: 05/05/24 10:18
  */
-package strategy;
+package strategy.netlix;
 
-public class TVVideoPlayer extends VideoPlayer {
+public class PhoneVideoPlayer extends VideoPlayer {
 
-
-    public TVVideoPlayer(Device device, Resolution resolution) {
+    public PhoneVideoPlayer(Device device, Resolution resolution) {
         this.device = device;
         this.resolution = resolution;
     }

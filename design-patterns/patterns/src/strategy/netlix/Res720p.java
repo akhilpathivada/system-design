@@ -2,7 +2,7 @@
  * author: akhilpathivada
  * time: 05/05/24 10:14
  */
-package strategy;
+package strategy.netlix;
 
 public class Res720p implements Resolution {
 

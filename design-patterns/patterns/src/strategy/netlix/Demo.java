@@ -2,7 +2,7 @@
  * author: akhilpathivada
  * time: 05/05/24 10:21
  */
-package strategy;
+package strategy.netlix;
 
 public class Demo {
 
